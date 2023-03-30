@@ -21,3 +21,17 @@ table, th , td {
     border-radius: 10px;
     
 }
+aside{
+    text-align: left;
+}
+ul{
+    color: aliceblue;
+    text-align:left;
+}
+.hey{
+    padding-bottom: 1ch;
+    float: right;
+    width: 20%;
+    background-color: rgb(255, 255, 255);margin: 15px;
+    
+}
